@@ -13,6 +13,7 @@
 		187333E62927CF8700A70EFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 187333E52927CF8700A70EFF /* Assets.xcassets */; };
 		187333E92927CF8700A70EFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 187333E72927CF8700A70EFF /* LaunchScreen.storyboard */; };
 		187333F12927CFD400A70EFF /* CardSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187333F02927CFD400A70EFF /* CardSelectionViewController.swift */; };
+		187333F32927E17200A70EFF /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187333F22927E17200A70EFF /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		187333E82927CF8700A70EFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		187333EA2927CF8700A70EFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		187333F02927CFD400A70EFF /* CardSelectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardSelectionViewController.swift; sourceTree = "<group>"; };
+		187333F22927E17200A70EFF /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				187333DC2927CF8500A70EFF /* AppDelegate.swift */,
 				187333DE2927CF8500A70EFF /* SceneDelegate.swift */,
 				187333F02927CFD400A70EFF /* CardSelectionViewController.swift */,
+				187333F22927E17200A70EFF /* Card.swift */,
 				187333E22927CF8500A70EFF /* Main.storyboard */,
 				187333E52927CF8700A70EFF /* Assets.xcassets */,
 				187333E72927CF8700A70EFF /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				187333DD2927CF8500A70EFF /* AppDelegate.swift in Sources */,
 				187333DF2927CF8500A70EFF /* SceneDelegate.swift in Sources */,
 				187333F12927CFD400A70EFF /* CardSelectionViewController.swift in Sources */,
+				187333F32927E17200A70EFF /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
