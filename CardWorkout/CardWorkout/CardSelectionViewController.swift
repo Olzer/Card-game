@@ -12,7 +12,7 @@ class CardSelectionViewController: UIViewController {
         super.viewDidLoad()
         startTimer()
         for button in buttons {
-            button.layer.cornerRadius = 8
+            button.layer.cornerRadius = 10
         }
     }
     
